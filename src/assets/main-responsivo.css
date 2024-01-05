@@ -13,7 +13,13 @@
   /* Estilos para smartphones em modo retrato com largura entre 320 pixels e 767 pixels */
   @media only screen and (max-width: 767px) {
     /* Adicione aqui seus estilos para smartphones em modo retrato */
-     .card-main{
+    main{
+      margin-top: 8em;
+    }
+    .img-banner{
+      display: none;
+    }
+    .card-main{
         flex-direction: column;
     }
   }

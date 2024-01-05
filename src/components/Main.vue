@@ -4,12 +4,12 @@
 <template>
   <main>
     <section>
-      <div class="column-left">
+      <div class="column-left ">
         <svg xmlns="http://www.w3.org/2000/svg" width="1220" height="617" viewBox="0 0 1220 617" fill="none">
         <path d="M0 0H1111C1171.2 0 1220 48.801 1220 109V508C1220 568.199 1171.2 617 1111 617H0V0Z" fill="#EFF8ED"/>
         </svg>
       </div>
-      <div class="container d-flex align-items-center">
+      <div class="container d-flex align-items-center main-content">
         <div class="col-5 text-main  ">
           <h1>Colégio Interagir</h1>
           <h3>Construindo o futuro do seu filho bem pertinho de você</h3>
@@ -22,14 +22,6 @@
     </section> 
     <section class="container card-main">
         <div class="card" style="width: 18rem;">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="card-link">Card link</a>
-        </div>
-      </div>
-      <div class="card" style="width: 18rem;">
         <div class="card-body">
           <h5 class="card-title">Card title</h5>
           <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
