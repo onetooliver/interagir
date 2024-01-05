@@ -1,0 +1,21 @@
+/* Estilos para telas de desktop/laptop com largura igual ou superior a 1024 pixels */
+@media only screen and (min-width: 1024px) {
+    /* Adicione aqui seus estilos para desktop/laptop */
+  }
+  
+  /* Estilos para tablets em modo retrato com largura entre 768 pixels e 1023 pixels */
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    /* Adicione aqui seus estilos para tablets em modo retrato */
+   
+  }
+  
+ 
+  /* Estilos para smartphones em modo retrato com largura entre 320 pixels e 767 pixels */
+  @media only screen and (max-width: 767px) {
+    /* Adicione aqui seus estilos para smartphones em modo retrato */
+     .card-main{
+        flex-direction: column;
+    }
+  }
+  
+  
